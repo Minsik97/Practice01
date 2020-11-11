@@ -1,15 +1,13 @@
 package com.javaex.practice;
 
-public class Ex01 {
+public class Ex09 {
 
 	public static void main(String[] args) {
 		
-		//Ex01
-		boolean var = true;
-		int of_workers = 1;
+		double f = 80.0;
+		System.out.println(5/9*(f-32.0));
+		
 
-		
-		
 	}
 
 }

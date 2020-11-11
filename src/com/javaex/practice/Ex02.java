@@ -1,14 +1,12 @@
 package com.javaex.practice;
 
-public class Ex01 {
+public class Ex02 {
 
 	public static void main(String[] args) {
 		
-		//Ex01
-		boolean var = true;
-		int of_workers = 1;
 
-		
+		System.out.println(12/5-1);
+		System.out.println(5+19%3);
 		
 	}
 
